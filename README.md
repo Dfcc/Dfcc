@@ -34,7 +34,7 @@ I'm a Starter developer enjoying applications, specializing in fullstack languag
 
 <!-- BLOG-POST-LIST:START -->
 
-### 👩‍💻 More devs tools and stacks
+### More devs tools and stacks
 <div align="left">
 <img align="left"src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="91px" height="31px">
 <img align="left"src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="81px" height="31px">
@@ -42,7 +42,7 @@ I'm a Starter developer enjoying applications, specializing in fullstack languag
 <img align="left"src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="91px" height="31px">
 <img align="left"src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="91px" height="31px">
 <img align="left"src="https://cdn-images-1.medium.com/fit/c/300/300/1*P8CfLG3rsh4OTHXE8qaITg.png" alt="Spring-boot" width="91px" height="31px">
-<img src="https://img2.freepng.es/20180426/kbw/kisspng-computer-icons-java-%E5%92%96%E5%95%A1%E6%B5%B7%E6%8A%A5%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90-5ae2595f709d26.2774016315247834554613.jpg" alt="Java" width="91px" height="31px"></a>
+<img src="https://img2.freepng.es/20180426/kbw/kisspng-computer-icons-java-%E5%92%96%E5%95%A1%E6%B5%B7%E6%8A%A5%E5%9B%BE%E7%89%87%E7%B4%A0%E6%9D%90-5ae2595f709d26.2774016315247834554613.jpg" alt="Java" width="71px" height="31px"></a>
 <img align="left"src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="91px" height="31px">
 <img align="left"src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="91px" height="31px">
 <img align="left"src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" alt="npm" width="91px" height="31px">
